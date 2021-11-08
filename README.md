@@ -1,3 +1,9 @@
+# Calculator JS
+
+[See my calculator here..](https://johns-coder.github.io/Calculator/)
+
+![Calculator gif](./image/calculator.gif)
+
 # Project-006 : Calculator (JS-02)
 
 ## Description
