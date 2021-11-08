@@ -2,7 +2,7 @@
 
 [See my calculator here..](https://johns-coder.github.io/Calculator/)
 
-![Calculator gif](./image/calculator.gif)
+![Calculator gif](./image/Calculator.gif)
 
 # Project-006 : Calculator (JS-02)
 
